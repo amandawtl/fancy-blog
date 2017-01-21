@@ -3,8 +3,8 @@ name: Amanda Leung
 bio: 'A girl who studying Data Visualization .'
 
 # if it's an external image, update below for true
-external-image: false
-picture: 'assets/images/maxresdefault.jpg'
+external-image: true
+picture: https://i.ytimg.com/vi/IVH1bhDoa6U/maxresdefault.jpg
 
 url: https://koppl.in/indigo/
 # your url: http://USERNAME.github.io
