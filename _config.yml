@@ -4,9 +4,9 @@ bio: 'A girl who studying Data Visualization .'
 
 # if it's an external image, update below for true
 external-image: false
-picture: 'https://i.ytimg.com/vi/IVH1bhDoa6U/maxresdefault.jpg'
+picture: 'assets/images/maxresdefault.jpg'
 
-url: https://koppl.in/profile.jpg
+url: https://koppl.in/indigo
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
