@@ -1,12 +1,12 @@
 # main text of home
 name: Amanda Leung
-bio: 'A girl who love sleeping.'
+bio: 'A girl who studying Data Visualisation .'
 
 # if it's an external image, update below for true
 external-image: false
 picture: 'assets/images/profile.jpg'
 
-url: http://koppl.in/indigo
+url: https://goo.gl/images/uMuOmN
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
